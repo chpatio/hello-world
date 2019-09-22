@@ -1,4 +1,4 @@
 # hello-world
 this is my first repo
 
-Hi Github I'm working on my first branch edits
+Hi Github I'm working on my second branch edits
